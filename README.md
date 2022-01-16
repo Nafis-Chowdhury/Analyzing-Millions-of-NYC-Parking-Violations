@@ -37,7 +37,7 @@ BULK API was used to load more than 18 million of data to make it efficient and 
 * Chart-5: The light purple bar chart tells us average fine amount for different states.
 * Chart-6: The red and green line charts show the comparison berween fine amount and payment amount for different violations. 
 
-<img src="kibanadashboard.png" width=1000>
+![kibana_dashboard](assets/kibanadashboard.png)
 
 ## References
 
